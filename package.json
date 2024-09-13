@@ -2,7 +2,6 @@
   "name": "og-community-api",
   "version": "0.0.1",
   "description": "",
-  "author": "sangheupLee <102008279+sangheupLee@users.noreply.github.com>",
   "private": true,
   "license": "UNLICENSED",
   "scripts": {
